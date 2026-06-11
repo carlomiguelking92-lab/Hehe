@@ -72,7 +72,7 @@ function createHeartBurst() {
     }
 }
 
-const startDate = new Date('March 13, 2023 00:00:00').getTime();
+const startDate = new Date('December 12, 2022 00:00:00').getTime();
 
 function updateCounter() {
     const now = new Date().getTime();
